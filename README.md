@@ -37,7 +37,7 @@ tensorboard --logdir=./log/YOUR_LOGDIR
 ### Testing
 
 ```
-python test --dataset cifar100 --log_dir ./log/cifar100
+python test.py --dataset cifar100 --log_dir ./log/cifar100
 ```
 
 ### Results
